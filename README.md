@@ -4,6 +4,7 @@
   <div id="badges">
     <img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" alt="Telegram Badge"/>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=stevenson67&style=flat-square&color=blue" alt=""/>
 </div>
 
 
