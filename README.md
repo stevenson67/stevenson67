@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Um3ljJl8jrnHy/giphy.gif" width="200"/>
   <div id="badges">
-    <a href="https://t.me/@STEVENSON098">
+    <a href="https://t.me/STEVENSON098">
       <img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" width="100" alt="Telegram Badge"/>
     </a>
   </div>
