@@ -11,10 +11,11 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/111ebonMs90YLu/giphy.gif" width="600" height="450">
+  <img src="https://media.giphy.com/media/111ebonMs90YLu/giphy.gif" width="600" height="400">
 </div>
 
-
+### :man_astronaut: About Me :
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 <!--
 **stevenson67/stevenson67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
