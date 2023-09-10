@@ -25,7 +25,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I solve problems on Codewars.
 
-- :mailbox:How to reach me:  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="50" alt="Gmail Badge"/> kingofguns066@gmail.com
+- :mailbox:How to reach me: kingofguns066@gmail.com <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="50" alt="Gmail Badge"/> 
 
 <!--
 **stevenson67/stevenson67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
