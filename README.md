@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/Um3ljJl8jrnHy/giphy.gif" width="200"/>
   <div id="badges">
     <a href="https://t.me/@STEVENSON098">
-      <img src="https://simpleicons.org/icons/telegram.svg" width="50" alt="Telegram Badge"/>
+      <img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" width="50" alt="Telegram Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=stevenson67&style=flat-square&color=blue" alt=""/>
