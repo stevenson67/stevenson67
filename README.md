@@ -1,11 +1,12 @@
 ### Hi there 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/111ebonMs90YLu/giphy.gif" width="200"/>
+  <div id="badges">
+    <img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" alt="Telegram Badge"/>
+  </div>
 </div>
 
-<div id="badges">
-  <img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" alt="Telegram Badge"/>
-</div>
+
 
 <!--
 **stevenson67/stevenson67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
