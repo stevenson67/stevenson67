@@ -1,4 +1,7 @@
 ### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3osxY5srzVZrwq3cFq/giphy.gif" width="100"/>
+</div>
 
 <!--
 **stevenson67/stevenson67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
