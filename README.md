@@ -2,10 +2,7 @@
   <img src="https://media.giphy.com/media/Um3ljJl8jrnHy/giphy.gif" width="200"/>
   <div id="badges">
     <a href="https://t.me/@STEVENSON098">
-      <img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" alt="Telegram Badge"/>
-    </a>
-    <a href="">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+      <img src="https://simpleicons.org/icons/telegram.svg" alt="Telegram Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=stevenson67&style=flat-square&color=blue" alt=""/>
@@ -28,7 +25,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I solve problems on Codewars.
 
-- :mailbox:How to reach me:  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/> kingofguns066@gmail.com
+- :mailbox:How to reach me:  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="30" alt="Gmail Badge"/> kingofguns066@gmail.com
 
 <!--
 **stevenson67/stevenson67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
